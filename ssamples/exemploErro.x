@@ -5,10 +5,10 @@ Esse programa implementa uma calculadora
 // adoro compiladores
 
 public class calculadora extends calculos{
-   protected string marca;
+   protected string marca, 1.0d;
    private final char codigo;
    private int dia_Entrega;
-   dia_Entrega = ;
+   dia_Entrega = super;
 
   constructor (string a, char b, boolean ehCientifica) {
       marca = a;
